@@ -47,3 +47,30 @@ HousePricePrediction/
 └── static/
     └── style.css
 ```
+## 📊 Dataset Used
+
+The dataset contains:
+
+- Area (sqft)
+- Bedrooms
+- Bathrooms
+- Price
+
+### Example Dataset
+
+| Area | Bedrooms | Bathrooms | Price |
+|------|----------|-----------|-------|
+| 1000 | 2 | 2 | 3000000 |
+| 1500 | 3 | 2 | 4500000 |
+| 2000 | 4 | 3 | 7000000 |
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone Repository
+
+```
+git clone https://github.com/yourusername/HousePricePrediction.git
+cd HousePricePrediction
+```
